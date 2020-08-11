@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World Test My Code Test againTest in Jenkins" );
+        System.out.println( "Hello World Test My Code Test in Jenkins pipeline" );
     }
 
 	public int calculateSomething() {
